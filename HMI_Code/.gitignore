@@ -1,0 +1,23 @@
+# CODESYS generated files
+BOOTINFO*
+COMPILEINFO*
+*.compileinfo
+*.bootinfo
+*.imgcache
+*.crc
+*.backup
+*.~u
+*.temp
+*.log
+
+# Simulation files
+*.sim
+Simulation/
+
+# Build files
+Build/
+Temp/
+
+# OS files
+Thumbs.db
+.DS_Store
