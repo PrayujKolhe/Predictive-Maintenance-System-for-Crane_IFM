@@ -1,5 +1,7 @@
 # 🖥️ HMI Development – IO-Link Smart Safety Monitoring System
 
+This Project was developed and tested using CODESYS V3.5 SP16 Patch 5.
+
 ## 📌 Overview
 
 This repository contains the **HMI (Human Machine Interface)** developed in **CODESYS SP16** for the **IO-Link Based Smart Overload & Safety Monitoring System**.
