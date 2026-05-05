@@ -1,5 +1,7 @@
 # ⚙️ PLC Control Logic – IO-Link Smart Safety Monitoring System
 
+This Project was developed and tested using CODESYS V3.5 SP18 Patch 0.
+
 ## 📌 Overview
 
 This repository contains the **PLC programming logic** developed for an **IO-Link Based Smart Overload & Safety Monitoring System** using the **IFM CR710S PLC** and **CODESYS SP16**.
